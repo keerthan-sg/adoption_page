@@ -12,3 +12,4 @@ This page demonstrate how we can do add ,delete ,report data to database along w
 ![alt text](https://github.com/keerthan-sg/adoption_page/blob/main/screenshots/flask_adoption_list_report.PNG)
 
 ![alt text](https://github.com/keerthan-sg/adoption_page/blob/main/screenshots/flask_adoption_add_owner_relationship.PNG)
+
